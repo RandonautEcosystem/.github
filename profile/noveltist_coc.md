@@ -19,3 +19,26 @@
 * Secrecy between participants is unacceptable.
 * Communications should be visible to all interested community members, private communications about crucial questions are undesirable.
 * All active community members should be aware about all processes, plans and tasks in the community.
+* Inclusion and connectedness - 
+* Projects should be open for enthusiasts to participate. 
+* All projects in the same area of development should help each other and share tools and resources for the goal of progress acceleration. 
+* Attempts to sabotage another project to gain more profits are unacceptable.
+
+## Noveltism
+
+* This community should seek novelty and explore in the maximum ways possible.
+* Every project should be experimenting and trying new approaches regardless of financial risks.
+* Everything that can be researched should be researched.
+* The Research process should have a maximum amount of branches to achieve maximum results in every way possible. 
+Metasciences are desirable. Assumption-based research is acceptable to accelerate the process but should be proven in the future. 
+Randomized search for novelty and its further exploration is preferable. The more participants involved, the more exploration will be done.
+
+* Cultural Medium - 
+For maximum effectiveness, the community is advised to avoid labels that impose methodological standards or limitations. For example, if a project is claimed to be scientific, it obliges it to follow academic standards. A noveltist project can combine the properties of scientific research, art, game, etc.
+The creation of an authentic cultural space with its own mythology and memetic technologies contributes to a more effective involvement of participants and resources in the process of research and spread of knowledge to the society.
+It is recommended to avoid being dogmatic and provide an interpretation of controversial views of the audience, allowing theories to evolve.
+
+
+
+
+————————————————
