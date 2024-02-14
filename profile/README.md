@@ -5,4 +5,4 @@ The target audience for this community are enthusiasts who study the MMI phenome
 
 In this community, it is invited to share materials on the MMI topic, present your projects, join efforts with the authors of other projects, jointly solve the urgent tasks of this area and, most importantly, share technologies so that the maximum number of people have the opportunity to develop them.
 
-This group follows the [Noveltist Community Model](noveltist_coc.md) and encourages participating projects using community technology to adhere to the principles outlined below in order to protect the primacy of research tasks and the availability of their results for all members of the community:
+This group follows the [Noveltist Community Model](noveltist_coc.md) and encourages participating projects using community technology to adhere to the principles outlined [here](noveltist_coc.md) in order to protect the primacy of research tasks and the availability of their results for all members of the community:
