@@ -21,7 +21,7 @@ The target audience for this community are enthusiasts who study the MMI phenome
 
 ### Mind-Enabled-Drive Experiments
 
-_Requirement: One of [Core Invention](https://coreinvention.com/)'s MED (Mind-Enabled Drive) quantum random number generator USB [devices](https://github.com/RandonautEcosystem/.github/docs/MED_devices.md)._
+_Requirement: One of [Core Invention](https://coreinvention.com/)'s MED (Mind-Enabled Drive) quantum random number generator USB [devices](https://github.com/RandonautEcosystem/.github/blob/main/docs/MED_devices.md)._
 
 * **[danosb/quantum_influence](https://github.com/danosb/quantum_influence)** - An experiment to measure impact of intention on quantum random numbers
 
