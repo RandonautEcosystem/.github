@@ -7,38 +7,38 @@ The target audience for this community are enthusiasts who study the MMI phenome
 
 ### Random Number Generation
 
-* **[TheRandonauts/quanttp2-rs](https://github.com/TheRandonauts/quanttp2-rs)** - Rust port of the [Quanttp 2](https://github.com/TheRandonauts/quanttp2) entropy server used by Randonautica to serve quantum random numbers
+* **[TheRandonauts/quanttp2-rs](https://github.com/TheRandonauts/quanttp2-rs)** - Rust port of the [Quanttp 2](https://github.com/TheRandonauts/quanttp2) entropy server used by Randonautica to serve quantum random numbers ([archived fork](https://github.com/RandonautEcosystem/quanttp2-rs))
 
-* **[TheRandonauts/quanttp2](https://github.com/TheRandonauts/quanttp2)** - HTTP API that wraps [MeterFeeder](https://github.com/TheRandonauts/MeterFeeder) instead of the [ComScire quantum random number generator API](https://comscire.com/downloads/qwqngdoc/) to support serving entropy from multiple devices. It also adds JSON endpoints. (based on [quanttp](https://github.com/awasisto/quanttp) by [Andika Wasisto](https://www.wasisto.com/))
+* **[TheRandonauts/quanttp2](https://github.com/TheRandonauts/quanttp2)** - HTTP API that wraps [MeterFeeder](https://github.com/TheRandonauts/MeterFeeder) instead of the [ComScire quantum random number generator API](https://comscire.com/downloads/qwqngdoc/) to support serving entropy from multiple devices. It also adds JSON endpoints. (based on [quanttp](https://github.com/awasisto/quanttp) by [Andika Wasisto](https://www.wasisto.com/)) ([archived fork](https://github.com/RandonautEcosystem/quanttp2))
 
-* **[TheRandonauts/libmeterfeeder-rs](https://github.com/TheRandonauts/libmeterfeeder-rs)** - Rust wrapper around the C++ based [LibMeterFeeder](https://github.com/TheRandonauts/MeterFeeder)
+* **[TheRandonauts/libmeterfeeder-rs](https://github.com/TheRandonauts/libmeterfeeder-rs)** - Rust wrapper around the C++ based [LibMeterFeeder](https://github.com/TheRandonauts/MeterFeeder) ([archived fork](https://github.com/RandonautEcosystem/libmeterfeeder-rs))
 
-* **[TheRandonauts/MeterFeeder](https://github.com/TheRandonauts/MeterFeeder)** - C++ driver library that allows you to read in random bytes simultaneously from [Core Invention(https://coreinvention.com/)]'s MED devices. (Original [MeterFeeder](https://github.com/vfp2/MeterFeeder) by [FP2](https://github.com/vfp2/))
+* **[TheRandonauts/MeterFeeder](https://github.com/TheRandonauts/MeterFeeder)** - C++ driver library that allows you to read in random bytes simultaneously from [Core Invention(https://coreinvention.com/)]'s MED devices. (Original [MeterFeeder](https://github.com/vfp2/MeterFeeder) by [FP2](https://github.com/vfp2/)) ([archived fork](https://github.com/RandonautEcosystem/MeterFeeder))
 
-* **[randogoth/RandonautEntroPy](https://github.com/randogoth/RandonautEntroPy)** - Python tools for interacting with the Randonautica QRNG and Temporal entropy generators
+* **[randogoth/RandonautEntroPy](https://github.com/randogoth/RandonautEntroPy)** - Python tools for interacting with the Randonautica QRNG and Temporal entropy generators ([archived fork](https://github.com/RandonautEcosystem/RandonautEntroPy))
 
-* **[gamblevore/temporal](https://github.com/gamblevore/temporal)** - TemporalLib can generate random numbers, using the time() instruction. (`rtdsc`?)
+* **[gamblevore/temporal](https://github.com/gamblevore/temporal)** - TemporalLib can generate random numbers, using the time() instruction. (`rtdsc`?) ([archived fork](https://github.com/RandonautEcosystem/temporal))
 
 ### Mind-Enabled-Drive Experiments
 
 _Requirement: One of [Core Invention](https://coreinvention.com/)'s MED (Mind-Enabled Drive) quantum random number generator USB [devices](https://github.com/RandonautEcosystem/.github/blob/main/docs/MED_devices.md)._
 
-* **[danosb/quantum_influence](https://github.com/danosb/quantum_influence)** - An experiment to measure impact of intention on quantum random numbers
+* **[danosb/quantum_influence](https://github.com/danosb/quantum_influence)** - An experiment to measure impact of intention on quantum random numbers ([archived fork](https://github.com/RandonautEcosystem/quantum_influence))
 
 * **[luckyjupiter/mmi](https://github.com/luckyjupiter/mmi)** - simple number guessing and other games using random walk bias amplifier and majority voting
 
-* **[AndieNoir/WebPsi](https://github.com/AndieNoir/WebPsi)** - A Python web app to aid psychic abilities experiments.
+* **[AndieNoir/WebPsi](https://github.com/AndieNoir/WebPsi)** - A Python web app to aid psychic abilities experiments. ([archived fork](https://github.com/RandonautEcosystem/WebPsi))
 
 ### Analysis
 
-* **[winternewt/bientropy](https://github.com/winternewt/bientropy)** - "a simple algorithm which computes the approximate entropy of a finite binary string of arbitrary length" using "a weighted average of the Shannon Entropies of the string and all but the last binary derivative of the string." In other words, these metrics can be used to help assess the disorder or randomness of binary or byte strings, particularly those that are too short for other randomness tests.
+* **[winternewt/bientropy](https://github.com/winternewt/bientropy)** - "a simple algorithm which computes the approximate entropy of a finite binary string of arbitrary length" using "a weighted average of the Shannon Entropies of the string and all but the last binary derivative of the string." In other words, these metrics can be used to help assess the disorder or randomness of binary or byte strings, particularly those that are too short for other randomness tests. ([archived fork](https://github.com/RandonautEcosystem/bientropy))
 
 ### Randonaut Forks
 
-* **[openrandonaut/pyrandonaut](https://github.com/openrandonaut/pyrandonaut)** - Python3 module that uses the gaussian kernel density estimate algorithm to find a point with a statistically anomalous density, similar to how an Attractor point is generated by Randonautica
+* **[openrandonaut/pyrandonaut](https://github.com/openrandonaut/pyrandonaut)** - Python3 module that uses the gaussian kernel density estimate algorithm to find a point with a statistically anomalous density, similar to how an Attractor point is generated by Randonautica ([archived fork](https://github.com/RandonautEcosystem/pyrandonaut))
 
-* **[librerandonaut/librerandonaut](https://github.com/librerandonaut/librerandonaut)** - Open source Android app for randonauting. It uses the Gaussian kernel density estimate to find the point with a statistically anomalous density.
+* **[librerandonaut/librerandonaut](https://github.com/librerandonaut/librerandonaut)** - Open source Android app for randonauting. It uses the Gaussian kernel density estimate to find the point with a statistically anomalous density. ([archived fork](https://github.com/RandonautEcosystem/librerandonaut))
 
 ### Experiments and Games
 
-* **[bembidiona/bandonautica](https://github.com/bembidiona/bandonautica)** - true random radio using the whole bandcamp site as a database. It is heavily inspired by the Randonauts movement. Escape your Newtonian music bubble!
+* **[bembidiona/bandonautica](https://github.com/bembidiona/bandonautica)** - true random radio using the whole bandcamp site as a database. It is heavily inspired by the Randonauts movement. Escape your Newtonian music bubble! ([archived fork](https://github.com/RandonautEcosystem/bandonautica))
