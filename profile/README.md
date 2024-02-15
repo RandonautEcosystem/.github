@@ -3,6 +3,10 @@
 This community is dedicated to collaborative research on Mind-Matter Interaction (MMI) technology and related technologies, as well as to the development of Randomness-based methodologies in research.
 The target audience for this community are enthusiasts who study the MMI phenomenon and are willing to join forces and share best practices to accelerate progress in this area.
 
+Please also visit the [MMI Forum](https://mmi.fp2.dev/) for discussions around the topic or [find us on Telegram](https://t.me/mindmachineinteraction). 
+
+Here's the [official repository](https://github.com/vfp2/) page of *FP2*, the people behind the MMI Forum
+
 ## Featured Repositories
 
 ### Random Number Generation
