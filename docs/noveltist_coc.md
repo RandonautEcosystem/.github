@@ -1,5 +1,9 @@
 # Noveltist Community Code of Conduct
 
+This group follows the *Noveltist Community Model* and encourages participating projects using community technology to adhere to the principles outlined below in order to protect the primacy of research tasks and the availability of their results for all members of the community.
+
+In this community, it is invited to share materials on the MMI topic, present your projects, join efforts with the authors of other projects, jointly solve the urgent tasks of this area and, most importantly, share technologies so that the maximum number of people have the opportunity to develop them.
+
 * We believe that technologies and ideas are valuable in themselves and can evolve, and therefore the wider their distribution and the less we try to control it, the faster they will develop.
 * For the same reason, we do not recognize methodological labels, such as dividing projects into scientific and art projects, since the construction of an effective cultural medium contributes to the development of technology no less than the competent construction of an experimental methodology.
 * Any form of contribution to the development of MMI technologies is welcome.
